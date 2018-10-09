@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\obj\Debug\CSharp.pdb

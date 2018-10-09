@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\bin\Release\CSharp.exe.config
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\bin\Release\CSharp.exe
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\bin\Release\CSharp.pdb
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\obj\Release\CSharp.exe
+C:\Program Files (x86)\Gazepoint\Gazepoint\demo\CSharp\CSharp\CSharp\obj\Release\CSharp.pdb
